@@ -1,0 +1,48 @@
+.list{
+    
+    background-color: black;
+    color: white;  
+    margin-top: 200px;
+}
+.details{
+    
+    display: flex;
+    
+}
+
+.text-dec a{
+    text-decoration: none;
+    color: white;
+
+}
+.text-dec ul{
+    list-style: none;
+   
+}
+.text{
+    background-color: black;
+    color: white;
+}
+.singin{
+    /* overflow: hidden; */
+    height: 750px;
+}
+   
+
+.text a{
+    text-decoration: none;
+    color: white;
+}
+.form{
+    display: flex;
+    flex-direction: row;
+}
+
+.py-5{
+    overflow: hidden;
+    width: 1500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
